@@ -200,13 +200,9 @@ function closeForm() {
     <p class="w3-opacity w3-xlarge"><i>Developer</i></p>
     <p>With this online examination portal you can create your exams and package them in a bundle. Monetise your online test series by selling it to all the students associated with you.</p>
   </article>
-  <article class="w3-third">
+  
       
-      <img src="ashish.jpg" alt="Random Name" class="avatar"><br>
-      <p><b class="w3-xxlarge">Ashish Kr. Mishra</b></p>
-    <p class="w3-opacity w3-xlarge"><i>Developer</i></p>
-    <p>With our online examination portal, coaching institutes can directly create exams by just uploading the word file for the exam. It makes their job a lot easier and saves a lot of time for them.</p>
-  </article>
+     
 </section>
 <br><br>
     </body>
